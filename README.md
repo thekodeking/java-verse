@@ -1,6 +1,17 @@
-dimension-Java
+# dimension-Java
 ---
-A repository that contains all my Java programs in the given directories.
-Checkout the code you want to learn or use.
+![Java Banner](https://atc.appxone.com/img/medium_banner/course_java_mediumbanner.jpg)
 
-<strong> Programs will be added soon... </strong>
+
+*A repository that contains all my Java programs in the given directories.
+Checkout the code you want to learn or use.*
+<details>
+<summary>JavaBasic Programs</summary>
+  
+| FileName      | Description |
+| :----:        |    :---   |
+| HelloWorld.java      | A java program to print "Hello World"       |
+
+</details>
+
+**More Programs will be added soon**
