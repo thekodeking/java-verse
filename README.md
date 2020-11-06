@@ -1,6 +1,6 @@
 # dimension-Java
 ---
-![Java Banner](https://atc.appxone.com/img/medium_banner/course_java_mediumbanner.jpg)
+![Java Banner](/Assets/JavaBanner.jpg)
 
 
 *A repository that contains all my Java programs in the given directories.
