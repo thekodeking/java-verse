@@ -9,8 +9,8 @@ Below here is a java version of Hello World program.
 
 **To run the program, open your commandline and type the following:**
 ```shell
-  $ javac HelloWorld.java
-  $ java HelloWorld
+ $ javac HelloWorld.java
+ $ java HelloWorld`
 ```
 ### HelloWorld.java
 ```java
