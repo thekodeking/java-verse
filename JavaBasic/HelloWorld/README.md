@@ -7,16 +7,20 @@ Below here is a java version of Hello World program.
 
 *The filename must have the same name as the public class name in that file, which is the way to tell the JVM that this is an entry point.*
 
-#### HelloWorld.java
+**To run the program, open your commandline and type the following:**
+```shell
+  $ javac HelloWorld.java
+  $ java HelloWorld
+```
+### HelloWorld.java
 ```java
    public class HelloWorld {
-    public static void main(String[] args) {
+    public static void main(String[] args) { // main method
         System.out.println("Hello World."); // prints Hello World.
     }
    }
 ```
-> ### Explanation 
-> ---
+### Explanation 
 > `public static void main(String[] args)` : main method/function is the first method that will be executed in any java programs.
 >
 > `String[] args` : args is a array of String type. It is used to get commandline arguments for your program           
