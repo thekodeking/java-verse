@@ -3,9 +3,9 @@
 A very basic program that every developer/programmer learns to write. A Hello World Program gives you a clarity on the basic outline of a language and the way to program the language.
 Below here is a java version of Hello World program.
 
-> **Task: Print "Hello World" to Standard Output (monitor)**
+**Task: Print "Hello World" to Standard Output (monitor)**
 
-> *The filename must have the same name as the public class name in that file, which is the way to tell the JVM that this is an entry point.*
+*The filename must have the same name as the public class name in that file, which is the way to tell the JVM that this is an entry point.*
 
 #### HelloWorld.java
 ```java
