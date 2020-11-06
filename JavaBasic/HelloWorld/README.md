@@ -9,8 +9,8 @@ Below here is a java version of Hello World program.
 
 **To run the program, open your commandline and type the following:**
 ```shell
-  **$ javac HelloWorld.java**
-  **$ java HelloWorld**
+  $ javac HelloWorld.java
+  $ java HelloWorld
 ```
 ### HelloWorld.java
 ```java
@@ -21,8 +21,8 @@ Below here is a java version of Hello World program.
    }
 ```
 ### Explanation 
-> `public static void main(String[] args)` : main method/function is the first method that will be executed in any java programs.
+> **`public static void main(String[] args)` : main method/function is the first method that will be executed in any java programs.**
 >
-> `String[] args` : args is a array of String type. It is used to get commandline arguments for your program           
+> **`String[] args` : args is a array of String type. It is used to get commandline arguments for your program.**          
 > 
-> `System.out.println("Hello World.");` : prints the String in quotes to the Standard Output Stream (i.e monitor).
+> **`System.out.println("Hello World.");` : prints the String in quotes to the Standard Output Stream (i.e monitor).**
