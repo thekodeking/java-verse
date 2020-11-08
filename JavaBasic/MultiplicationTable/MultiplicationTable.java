@@ -10,12 +10,18 @@ public class MultiplicationTable{
         }
         else {
             Scanner scan = new Scanner ( System.in );
+<<<<<<< HEAD
             System.out.print("Enter number (x) = ");
             int x = scan.nextInt ();
             System.out.print("Enter range (limit) = "); 
             int limit = scan.nextInt();
             scan.close();
             printTable(x, limit);
+=======
+            int num = scan.nextInt ();
+            scan.close(); // It's a good habit to close the streams that you open ;)
+            printTable(num);
+>>>>>>> 800ef73e5c6f9ad93f3ff939758512e5a17ea2db
         }
     }
 
