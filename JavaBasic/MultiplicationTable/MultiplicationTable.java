@@ -8,6 +8,7 @@ public class MultiplicationTable{
         else {
             Scanner scan = new Scanner ( System.in );
             int num = scan.nextInt ();
+            scan.close(); // It's a good habit to close the streams that you open ;)
             printTable(num);
         }
     }
