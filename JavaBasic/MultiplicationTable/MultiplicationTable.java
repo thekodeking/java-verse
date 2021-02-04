@@ -20,7 +20,10 @@ public class MultiplicationTable{
     }
 
     public static void printTable(int x, int limit){
-        if (limit < 1 && limit > 1000) limit = 10;
+        if (limit < 1 || limit > 1000) {
+            System.out.println("Limit is less than 1 or exceeding 1000. So, limit is set to 10 by default");
+            limit = 10;
+        }
 	    for (int i = 1; i <= limit; i++) {
             System.out.println(x + " x " + i + " = " + (x*i));
             if (i % 10 == 0) System.out.println();
