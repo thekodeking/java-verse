@@ -6,7 +6,7 @@ public class GreetUser {
             greet(args[0]); // calls greet("") method
         }
         else { // if user didn't give any commandline arguments ...
-            System.out.print( "Enter your Name:" ); // Prints the text: Enter your Name
+            System.out.print( "Enter your Name: " ); // Prints the text: Enter your Name
             Scanner scan = new Scanner ( System.in ); // scan is an object of Scanner
             String name = scan.nextLine (); // name gets the user input
             scan.close (); // closes the "System.in" input stream
