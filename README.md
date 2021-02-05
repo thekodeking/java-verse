@@ -9,7 +9,7 @@ You are free to learn or use the programs.*
 
 ## JavaBasic Programs
   
-| FileName             | Description | Visit Page | Download |
+| FileName             | Description | Visit | Download |
 | :----:               |    :----:     | :----:       | :----: |
 | HelloWorld.java      | A java program to print "Hello World"       | [:arrow_forward:](https://github.com/kode-logger/dimension-Java/tree/main/JavaBasic/HelloWorld "HelloWorld.java") | [:arrow_down:](https://raw.githubusercontent.com/kode-logger/dimension-Java/main/JavaBasic/HelloWorld/HelloWorld.java "HelloWorld.java")
 | GreetUser.java       | A java program that gets username and Greets the user | [:arrow_forward:](https://github.com/kode-logger/dimension-Java/tree/main/JavaBasic/GreetUser "GreetUser.java") | [:arrow_down:](https://raw.githubusercontent.com/kode-logger/dimension-Java/main/JavaBasic/GreetUser/GreetUser.java "GreetUser.java")
