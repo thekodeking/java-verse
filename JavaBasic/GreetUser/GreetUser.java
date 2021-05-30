@@ -1,4 +1,4 @@
-import java.util.Scanner; // Scanner class is requied to get user inputs 
+import java.util.Scanner; // Scanner class is required to get user inputs
 
 public class GreetUser {
     public static void main(String[] args) {
