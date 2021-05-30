@@ -16,6 +16,6 @@ You are free to learn or use the programs.*
 | MultiplicationTable.java | A java program to print multiplication of number x from 1 to given limit | [:arrow_forward:](https://github.com/kode-logger/dimension-Java/tree/main/JavaBasic/MultiplicationTable "MultiplicationTable.java") | [:arrow_down:](https://raw.githubusercontent.com/kode-logger/dimension-Java/main/JavaBasic/MultiplicationTable/MultiplicationTable.java "MultiplicationTable.java")
 | Fibonacci.java | A java program to print the fibonacci series upto n terms | [:arrow_forward:](https://github.com/kode-logger/dimension-Java/tree/main/JavaBasic/FibonacciSeries "Fibonacci.java") | [:arrow_down:](https://raw.githubusercontent.com/kode-logger/dimension-Java/main/JavaBasic/FibonacciSeries/Fibonacci.java "Fibonacci.java") 
 | PrimeChecker.java | A java program to check whether a number is prime or not | [:arrow_forward:](https://github.com/kode-logger/dimension-Java/tree/main/JavaBasic/PrimeChecker "PrimeChecker.java") | [:arrow_down:](https://raw.githubusercontent.com/kode-logger/dimension-Java/main/JavaBasic/PrimeChecker/PrimeChecker.java "PrimeChecker.java")
-
+| PrimeGenerator.java | A java program to generate prime numbers upto n terms | [:arrow_forward:](https://github.com/kode-logger/dimension-Java/tree/main/JavaBasic/PrimeGenerator "PrimeGenerator.java") | [:arrow_down:](https://raw.githubusercontent.com/kode-logger/dimension-Java/main/JavaBasic/PrimeGenerator/PrimeGenerator.java "PrimeGenerator.java")
 
 **More Programs will be added soon**
