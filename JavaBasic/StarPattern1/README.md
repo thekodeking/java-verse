@@ -1,6 +1,7 @@
 # Star Pattern - 1
 
-A basic program that gets input `rows` (Integer) from the user and prints the following pattern.
+A basic program that gets input `rows` (Integer) and `symbol` (Character) from the user and prints the following pattern.
+
 ```shell
 Input: 5
 Output:
@@ -9,7 +10,17 @@ Output:
  *  * 
  *  *  * 
  *  *  *  * 
- *  *  *  *  * 
+ *  *  *  *  *
+
+ Input: 5, x
+ Output:
+
+ x
+ x  x
+ x  x  x
+ x  x  x  x
+ x  x  x  x  x
+
 ```
 **Task: Print the desired star pattern as depicted above.**
 
@@ -26,30 +37,48 @@ Output:
 ```shell
  $ javac StarPattern1.java
  $ java StarPattern1 5
+            or
+ $ java StarPattern1 5 x
 ```
 
 ### StarPattern1.java
 ```java
+import java.io.IOException;
 import java.util.Scanner;
 
 public class StarPattern1 {
-    static char symbol = '*';
+    static char symbol = '*'; // to store the character to print.
+
     public static void main(String[] args) {
         if (args.length > 0) {
             if (args.length == 1)
                 starPrinter(Integer.parseInt(args[0]));
-            else
-                System.out.println("[!] Available arguments: [rows] ");
+            else if (args.length == 2) {
+                symbol = args[1].charAt(0);
+                starPrinter(Integer.parseInt(args[0]));
+            } else
+                System.out.println("[!] Available arguments: [rows (integer)] [symbol (character)| optional] ");
         } else {
             Scanner scan = new Scanner(System.in);
-            System.out.print("[->] Enter the number of rows: ");
+            System.out.print("[<-] Enter the number of rows: ");
             int rows = scan.nextInt();
-            scan.close();
+            System.out.print("[<-] Enter the symbol character to print (press enter to use default '*'): ");
+            // System.in.read() can give IOException error, so try block is used here to counter the error
+            try{
+                int inputSymbol = System.in.read();
+                if (inputSymbol >= 33 && inputSymbol <= 126) // checking for printable ascii characters
+                    symbol = (char) inputSymbol; // set the symbol to the user input character
+            } catch (IOException error) {
+                System.out.println("[!] " + error.getMessage());
+            }
+            
+            scan.close();                
             starPrinter(rows);
         }
     } // end of main method
 
     public static void starPrinter(int rows) {
+        System.out.println("\n[->] Output: \n");
         if (rows < 1)
             System.out.println("[!] Number of Rows must be greater than 1.");
         else {
@@ -59,6 +88,7 @@ public class StarPattern1 {
                 System.out.println();
             }
         }
+        System.out.println(); // printing a new line for better output visibility.
     }
 }
 
@@ -66,6 +96,9 @@ public class StarPattern1 {
 
 ### Explanation
 > **`import java.util.Scanner;` : imports Scanner class from java > util package. Scanner is a class that lets you get input form the user. Scanner can take any primitive data type as input from the user.**
+>
+> **`import java.io.IOException;` : imports IOException class from java > io package. IOException class is used to 
+identify and handle Input Output errors. It was used in the program to maintain the working of System.in.read().**
 >
 > **`public static void main(String[] args)` : main method/function is the first method that will be executed in any java programs.**
 >
@@ -80,7 +113,9 @@ public class StarPattern1 {
 >
 > **`scan.nextInt()` : gets Integer input from user.**
 >
+> **`System.in.read()` : Reads characters from input and returns the data from Standard input as Integers.**
+>
 > **`scan.close();` : closes the input stream link/pipe.**
 >
 > **`public static void starPrinter(int rows)` : user defined method that prints the desired star pattern by taking 
-> the number of rows from the user as input.** 
+the number of rows from the user as input.**
