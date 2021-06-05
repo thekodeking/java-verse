@@ -14,6 +14,8 @@ Below here is a java version of Hello World program.
 ```
 ### HelloWorld.java
 ```java
+   package HelloWorld;
+
    public class HelloWorld {
     public static void main(String[] args) { // main method
         System.out.println("Hello World."); // prints Hello World.

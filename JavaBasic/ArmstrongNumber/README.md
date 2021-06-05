@@ -63,6 +63,8 @@ Examples of Armstrong Numbers
 
 ### ArmstrongNumber.java
 ```java
+package ArmstrongNumber;
+
 import java.util.Scanner; // used to get user input
 
 public class ArmstrongNumber {

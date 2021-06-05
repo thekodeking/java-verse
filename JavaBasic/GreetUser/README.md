@@ -22,6 +22,8 @@ printing variables and user-defined method.
 
 ### GreetUser.java
 ```java
+  package GreetUser;
+
   import java.util.Scanner; // Scanner class is requied to get user inputs 
 
   public class GreetUser {

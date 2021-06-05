@@ -49,6 +49,8 @@ By this program, you can understand the usage of commandline arguments, use of a
 
 ### Power.java
 ```java
+package Power;
+
 import java.util.Scanner;
 
 public class Power {

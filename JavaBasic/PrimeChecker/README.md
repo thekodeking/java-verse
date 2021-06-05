@@ -57,6 +57,8 @@ So if a number (greater than 1) is not prime and we test divisibility up to squa
 
 ### PrimeChecker.java
 ```java
+package PrimeChecker;
+
 import java.util.Scanner;
 
 public class PrimeChecker {

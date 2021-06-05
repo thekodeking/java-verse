@@ -32,6 +32,8 @@ In fibonacci series, next number is the sum of previous two numbers for example 
 
 ### Fibonacci.java
 ```java
+package FibonacciSeries;
+
 import java.util.Scanner;
 
 public class Fibonacci {

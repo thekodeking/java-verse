@@ -1,3 +1,5 @@
+package GreetUser;
+
 import java.util.Scanner; // Scanner class is required to get user inputs
 
 public class GreetUser {

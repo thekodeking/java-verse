@@ -20,10 +20,15 @@ You are free to learn or use the programs.*
 | Power.java | A java program to calculate the value of x^y using pre defined java methods | [:arrow_forward:](https://github.com/kode-logger/dimension-Java/tree/main/JavaBasic/Power "Power.java") | [:arrow_down:](https://raw.githubusercontent.com/kode-logger/dimension-Java/main/JavaBasic/Power/Power.java "Power.java")
 | ArmstrongNumber.java | A java program to check whether a number is an armstrong  number or not | [:arrow_forward:](https://github.com/kode-logger/dimension-Java/tree/main/JavaBasic/ArmstrongNumber "ArmstrongNumber.java") | [:arrow_down:](https://raw.githubusercontent.com/kode-logger/dimension-Java/main/JavaBasic/ArmstrongNumber/ArmstrongNumber.java "ArmstrongNumber.java")
 
+
+
 ## Java Pattern Programs
 
 | Filename | Description | Visit | Download |
 | :----:   | :----:      | :----: | :----: |
-| StarPattern1.java | Printing Right Angle Triangle (Basic pattern program) | [:arrow_forward:](https://github.com/kode-logger/dimension-Java/tree/main/JavaBasic/StarPattern1) | [:arrow_down:](https://raw.githubusercontent.com/kode-logger/dimension-Java/main/JavaBasic/StarPattern1/StarPattern1.java) |
+| StarPattern1.java | Printing Right Angle Triangle (Basic pattern program) | [:arrow_forward:](https://github.com/kode-logger/dimension-Java/tree/main/JavaPattern/StarPattern1) | [:arrow_down:](https://raw.githubusercontent.com/kode-logger/dimension-Java/main/JavaPattern/StarPattern1/StarPattern1.java) |
+| StarPattern2.java | Printing Right Angle Triangle with even and odd row variation | [:arrow_forward:](https://github.com/kode-logger/dimension-Java/tree/main/JavaPattern/StarPattern2) | [:arrow_down:](https://raw.githubusercontent.com/kode-logger/dimension-Java/main/JavaPattern/StarPattern2/StarPattern2.java) |
+
+
 
 **More Programs will be added soon**

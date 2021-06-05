@@ -1,3 +1,5 @@
+package PrimeGenerator;
+
 import java.util.ArrayList; // used to store the prime numbers
 import java.util.Arrays; // used to initialize array
 import java.util.Scanner;// used to get user input

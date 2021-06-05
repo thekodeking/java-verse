@@ -1,3 +1,5 @@
+package ArmstrongNumber;
+
 import java.util.Scanner; // used to get user input
 
 public class ArmstrongNumber {

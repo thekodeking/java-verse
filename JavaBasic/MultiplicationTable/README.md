@@ -34,6 +34,8 @@ you can understand the usage of commandline arguments, use of arithmetic operato
 
 ### MultiplicationTable.java
 ```java
+package MultiplicationTable;
+
 import java.util.Scanner;
 
 public class MultiplicationTable{

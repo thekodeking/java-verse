@@ -1,3 +1,5 @@
+package PrimeChecker;
+
 import java.util.Scanner;
 
 public class PrimeChecker {

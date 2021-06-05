@@ -82,6 +82,8 @@ Note: When the number of terms is more than 1200, you need to specify a max_int 
 
 ### PrimeGenerator.java
 ```java
+package PrimeGenerator;
+
 import java.util.ArrayList; // used to store the prime numbers
 import java.util.Arrays; // used to initialize array
 import java.util.Scanner;// used to get user input

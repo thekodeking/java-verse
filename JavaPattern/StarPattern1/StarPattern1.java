@@ -1,3 +1,5 @@
+package StarPattern1;
+
 import java.io.IOException;
 import java.util.Scanner;
 
