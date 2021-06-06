@@ -16,11 +16,11 @@ public class Power {
         }
 
         Scanner scanner = new Scanner(System.in);
-        System.out.print(" [-] Enter the base integer value: ");
+        System.out.print(" [<-] Enter the base integer value: ");
         int x = scanner.nextInt();
-        System.out.print(" [-] Enter the exponent integer value: ");
+        System.out.print(" [<-] Enter the exponent integer value: ");
         int y = scanner.nextInt();
         scanner.close(); // closing the stream as it's not needed anymore.
-        System.out.println(" " + x + " ^ " + y + " = " + Math.pow(x, y));
+        System.out.println("[->] " + x + " ^ " + y + " = " + Math.pow(x, y));
     }
 }
