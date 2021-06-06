@@ -45,14 +45,14 @@ So if a number (greater than 1) is not prime and we test divisibility up to squa
 **To run the program, open your commandline and type the following:**
 * Without Commandline Arguments
 ```shell
- $ javac PrimeChecker.java
- $ java PrimeChecker
+ $ ..\JavaBasic> javac .\PrimeChecker\PrimeChecker.java
+ $ ..\JavaBasic> java PrimeChecker.PrimeChecker
 ```
 
 * With Commandline Arguments
 ```shell
- $ javac PrimeChecker.java
- $ java PrimeChecker 2
+ $ ..\JavaBasic> javac .\PrimeChecker\PrimeChecker.java
+ $ ..\JavaBasic> java PrimeChecker.PrimeChecker 2
 ```
 
 ### PrimeChecker.java

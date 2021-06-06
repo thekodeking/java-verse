@@ -10,14 +10,14 @@ printing variables and user-defined method.
 **To run the program, open your commandline and type the following:**
 * Without Commandline Arguments
 ```shell
- $ javac GreetUser.java
- $ java GreetUser
+ $ ..\JavaBasic> javac .\GreetUser\GreetUser.java
+ $ ..\JavaBasic> java GreetUser.GreetUser
 ```
 
 * With Commandline Arguments
 ```shell
- $ javac GreetUser.java
- $ java GreetUser "Kode-Logger"
+ $ ..\JavaBasic> javac .\GreetUser\GreetUser.java
+ $ ..\JavaBasic> java GreetUser.GreetUser "Kode-Logger"
 ```
 
 ### GreetUser.java

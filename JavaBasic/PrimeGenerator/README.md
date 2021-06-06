@@ -50,8 +50,8 @@ To know more checkout: [Sieve of Eratosthenes](https://en.wikipedia.org/wiki/Sie
 **To run the program, open your commandline and type the following:**
 * Without Commandline Arguments
 ```shell
- $ javac PrimeGenerator.java
- $ java PrimeGenerator
+ $ ..\JavaBasic> javac .\PrimeGenerator\PrimeGenerator.java
+ $ ..\JavaBasic> java PrimeGenerator.PrimeGenerator
 ```
 
 * Defined Arguments
@@ -73,10 +73,10 @@ Note: When the number of terms is more than 1200, you need to specify a max_int 
 
 * With Commandline Arguments
 ```shell
- $ javac PrimeGenerator.java
- $ java PrimeGenerator 10 (this command will be used to generate 10 numbers)
+ $ ..\JavaBasic> javac .\PrimeGenerator\PrimeGenerator.java
+ $ ..\JavaBasic> java PrimeGenerator.PrimeGenerator 10 (this command will be used to generate 10 numbers)
             or
- $ java PrimeGenerator 3000 20000 (this command will be used to generate 3000 numbers)
+ $ ..\JavaBasic> java PrimeGenerator.PrimeGenerator 3000 20000 (this command will be used to generate 3000 numbers)
 ```
 
 

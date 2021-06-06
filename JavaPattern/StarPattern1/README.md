@@ -29,16 +29,16 @@ Output:
 **To run the program, open your commandline and type the following:**
 * Without Commandline Arguments
 ```shell
- $ javac StarPattern1.java
- $ java StarPattern1
+ $ ..\JavaPattern> javac .\StarPattern\StarPattern1.java
+ $ ..\JavaPattern> java StarPattern1.StarPattern1
 ```
 
 * With Commandline Arguments
 ```shell
- $ javac StarPattern1.java
- $ java StarPattern1 5
+ $ ..\JavaPattern> javac .\StarPattern1\StarPattern1.java
+ $ ..\JavaPattern> java StarPattern1.StarPattern1 5
             or
- $ java StarPattern1 5 x
+ $ ..\JavaPattern> java StarPattern1.StarPattern1 5 x
 ```
 
 ### StarPattern1.java

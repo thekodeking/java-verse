@@ -20,14 +20,14 @@ Output:
 **To run the program, open your commandline and type the following:**
 * Without Commandline Arguments
 ```shell
- $ javac StarPattern2.java
- $ java StarPattern2
+ $ ..\JavaBasic> javac .\StarPattern2\StarPattern2.java
+ $ ..\JavaBasic> java StarPattern2.StarPattern2
 ```
 
 * With Commandline Arguments
 ```shell
- $ javac StarPattern2.java
- $ java StarPattern2 5
+ $ ..\JavaBasic> javac .\StarPattern2\StarPattern2.java
+ $ ..\JavaBasic> java StarPattern2.StarPattern2 5
  ```
 
 ### StarPattern2.java

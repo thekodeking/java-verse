@@ -17,19 +17,19 @@ you can understand the usage of commandline arguments, use of arithmetic operato
 **To run the program, open your commandline and type the following:**
 * Without Commandline Arguments
 ```shell
- $ javac MultiplicationTable.java
- $ java MultiplicationTable
+ $ ..\JavaBasic> javac .\MultiplicationTable\MultiplicationTable.java
+ $ ..\JavaBasic> java MultiplicationTable.MultiplicationTable
 ```
 
 * With Commandline Arguments
 ```shell
- $ javac MultiplicationTable.java
- $ java MultiplicationTable 2 3
+ $ ..\JavaBasic> javac .\MultiplicationTable\MultiplicationTable.java
+ $ ..\JavaBasic> java MultiplicationTable.MultiplicationTable 2 3
  
  or
  
- $ javac MultiplicationTable.java
- $ java MultiplicationTable 2
+ $ ..\JavaBasic> javac .\MultiplicationTable\MultiplicationTable.java
+ $ ..\JavaBasic> java MultiplicationTable.MultiplicationTable 2
 ```
 
 ### MultiplicationTable.java

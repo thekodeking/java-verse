@@ -42,8 +42,8 @@ Examples of Armstrong Numbers
 **To run the program, open your commandline and type the following:**
 * Without Commandline Arguments
 ```shell
- $ javac ArmstrongNumber.java
- $ java ArmstrongNumber
+ $ ..\JavaBasic> javac .\ArmstrongNumber\ArmstrongNumber.java
+ $ ..\JavaBasic> java ArmstrongNumber.ArmstrongNumber
 ```
 
 * Defined Arguments
@@ -56,8 +56,8 @@ Examples of Armstrong Numbers
 
 * With Commandline Arguments
 ```shell
- $ javac ArmstrongNumber.java
- $ java ArmstrongNumber 370
+ $ ..\JavaBasic> javac .\ArmstrongNumber\ArmstrongNumber.java
+ $ ..\JavaBasic> java ArmstrongNumber.ArmstrongNumber 370
 ```
 
 

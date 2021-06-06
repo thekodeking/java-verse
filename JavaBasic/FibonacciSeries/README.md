@@ -20,14 +20,14 @@ In fibonacci series, next number is the sum of previous two numbers for example 
 **To run the program, open your commandline and type the following:**
 * Without Commandline Arguments
 ```shell
- $ javac Fibonacci.java
- $ java Fibonacci
+ $ ..\JavaBasic> javac .\Fibonacci\Fibonacci.java
+ $ ..\JavaBasic> java Fibonacci.Fibonacci
 ```
 
 * With Commandline Arguments
 ```shell
- $ javac Fibonacci.java
- $ java Fibonacci 10
+ $ ..\JavaBasic> javac .\Fibonacci\Fibonacci.java
+ $ ..\JavaBasic> java Fibonacci.Fibonacci 10
 ```
 
 ### Fibonacci.java

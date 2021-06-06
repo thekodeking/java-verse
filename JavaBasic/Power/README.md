@@ -23,8 +23,8 @@ By this program, you can understand the usage of commandline arguments, use of a
 **To run the program, open your commandline and type the following:**
 * Without Commandline Arguments
 ```shell
- $ javac Power.java
- $ java Power
+ $ ..\JavaBasic> javac .\Power\Power.java
+ $ ..\JavaBasic> java Power.Power
 ```
 
 * Defined Arguments
@@ -42,8 +42,8 @@ By this program, you can understand the usage of commandline arguments, use of a
 
 * With Commandline Arguments
 ```shell
- $ javac Power.java
- $ java Power 2 5
+ $ ..\JavaBasic> javac .\Power\Power.java
+ $ ..\JavaBasic> java Power.Power 2 5
 ```
 
 
