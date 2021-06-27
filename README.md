@@ -32,3 +32,19 @@ You are free to learn or use the programs.*
 
 
 **More Programs will be added soon**
+
+
+## Hey, Want to Contribute?
+### Why should you contribute to this repository?
+- You will enjoy the process of contributing and sharing your work with other developers. Even if your contribution is small, no worries.
+- There is a 35% chance that some random person might check out your profile after seeing this repository... 😅
+- Nonetheless you can share your knowledge and help others by contributing to this repository.
+
+### What do I get if you contribute to this repository?
+- More techniques and knowledge.
+- Some unique algorithms that I might be seeing for the first time.
+- Maybe some chance to collaborate with new developers?
+
+Last but not least, I am happy to welcome any contributions in the form of bug fixes (if any), some java codes, documentation work or anything else.
+
+And... make sure to **STAR** this repository, who knows it might help you someday 😉.
