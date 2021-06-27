@@ -19,7 +19,7 @@ You are free to learn or use the programs.*
 | PrimeGenerator.java | A java program to generate prime numbers upto n terms | [:arrow_forward:](https://github.com/kode-logger/dimension-Java/tree/main/JavaBasic/PrimeGenerator "PrimeGenerator.java") | [:arrow_down:](https://raw.githubusercontent.com/kode-logger/dimension-Java/main/JavaBasic/PrimeGenerator/PrimeGenerator.java "PrimeGenerator.java")
 | Power.java | A java program to calculate the value of x^y using pre defined java methods | [:arrow_forward:](https://github.com/kode-logger/dimension-Java/tree/main/JavaBasic/Power "Power.java") | [:arrow_down:](https://raw.githubusercontent.com/kode-logger/dimension-Java/main/JavaBasic/Power/Power.java "Power.java")
 | ArmstrongNumber.java | A java program to check whether a number is an armstrong  number or not | [:arrow_forward:](https://github.com/kode-logger/dimension-Java/tree/main/JavaBasic/ArmstrongNumber "ArmstrongNumber.java") | [:arrow_down:](https://raw.githubusercontent.com/kode-logger/dimension-Java/main/JavaBasic/ArmstrongNumber/ArmstrongNumber.java "ArmstrongNumber.java")
-
+| RandomNumber.java | A java program to generate a random number with the given min and max limit | [:arrow_forward:](https://github.com/kode-logger/dimension-Java/tree/main/JavaBasic/RandomNumber "RandomNumber.java") | [:arrow_down:](https://raw.githubusercontent.com/kode-logger/dimension-Java/main/JavaBasic/RandomNumber/RandomNumber.java "RandomNumber.java")
 
 
 ## Java Pattern Programs
