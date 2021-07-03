@@ -34,16 +34,17 @@ In fibonacci series, next number is the sum of previous two numbers for example 
 ```java
 package FibonacciSeries;
 
-import java.util.Scanner;
+import java.util.Scanner; // Scanner class is required to get user inputs
 
 public class Fibonacci {
     public static void main(String[] args) {
+        // if user gave commandline-arguments then
         if (args.length > 0) {
             if (args.length == 1)
                 fiboPrinter(Integer.parseInt(args[0]));
             else
                 System.out.println("Available arguments: [Range] ");
-        }
+        } // else, get user input
         else{
             Scanner scan = new Scanner(System.in);
             System.out.print("Enter the number of terms: ");
