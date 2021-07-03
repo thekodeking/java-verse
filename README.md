@@ -1,6 +1,6 @@
 # dimension-Java
 ---
-![Java Banner](/Assets/JavaBanner.jpg)
+![Java Banner](https://raw.githubusercontent.com/kode-logger/resource-data-storage/main/dimension-java/JavaBanner.jpg)
 
 
 *A repository that contains all my Java programs in the given directories.
