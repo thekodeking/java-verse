@@ -20,17 +20,18 @@ In fibonacci series, next number is the sum of previous two numbers for example 
 **To run the program, open your commandline and type the following:**
 * Without Commandline Arguments
 ```shell
- $ ..\JavaBasic> javac .\Fibonacci\Fibonacci.java
- $ ..\JavaBasic> java Fibonacci.Fibonacci
+ $ ..\JavaBasic> javac .\FibonacciSeries\Fibonacci.java
+ $ ..\JavaBasic> java FibonacciSeries.Fibonacci
 ```
 
 * With Commandline Arguments
 ```shell
- $ ..\JavaBasic> javac .\Fibonacci\Fibonacci.java
- $ ..\JavaBasic> java Fibonacci.Fibonacci 10
+ $ ..\JavaBasic> javac .\FibonacciSeries\Fibonacci.java
+ $ ..\JavaBasic> java FibonacciSeries.Fibonacci 10
 ```
 
 ### Fibonacci.java
+
 ```java
 package FibonacciSeries;
 
@@ -45,7 +46,7 @@ public class Fibonacci {
             else
                 System.out.println("Available arguments: [Range] ");
         } // else, get user input
-        else{
+        else {
             Scanner scan = new Scanner(System.in);
             System.out.print("Enter the number of terms: ");
             int range = scan.nextInt();
@@ -55,7 +56,7 @@ public class Fibonacci {
     } // end of main method
 
     // A method to print the fibonacci series
-    public static void fiboPrinter(int range){
+    public static void fiboPrinter(int range) {
         int x1 = 0, x2 = 1, y = 0;
         if (range < 1) System.out.println("The range input must be greater than 0");
         else if (range == 1) System.out.println("| " + x1 + " | ");
@@ -64,7 +65,7 @@ public class Fibonacci {
             System.out.print("| " + x1 + " | " + x2 + " | ");
             for (int i = 2; i < range; i++) {
                 y = x1 + x2;
-                System.out.print( y + " | ");
+                System.out.print(y + " | ");
                 x1 = x2;
                 x2 = y;
             }
