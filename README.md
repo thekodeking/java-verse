@@ -29,7 +29,8 @@
 
 | Filename | Description | Visit | Download |
 | :----:   | :----:      | :----: | :----: |
-| Fibonacci.java | Print fibonacci series using recursive methods | [:arrow_forward:](https://github.com/kode-logger/dimension-Java/tree/main/JavaRecursion/Fibonacci "Fibonacci") | [:arrow_down:](https://raw.githubusercontent.com/kode-logger/dimension-Java/main/JavaRecursion/Fibonacci/Fibonacci.java "Fibonacci.java") |
+| Fibonacci.java | Print fibonacci series using a recursive method | [:arrow_forward:](https://github.com/kode-logger/dimension-Java/tree/main/JavaRecursion/Fibonacci "Fibonacci") | [:arrow_down:](https://raw.githubusercontent.com/kode-logger/dimension-Java/main/JavaRecursion/Fibonacci/Fibonacci.java "Fibonacci.java") |
+| Factorial.java | Print factorial of a number using a recursive method | [:arrow_forward:](https://github.com/kode-logger/dimension-Java/tree/main/JavaRecursion/Factorial "Factorial") | [:arrow_down:](https://raw.githubusercontent.com/kode-logger/dimension-Java/main/JavaRecursion/Factorial/Factorial.java "Factorial.java") |
 
 **More Programs will be added soon**
 
