@@ -31,6 +31,7 @@
 | :----:   | :----:      | :----: | :----: |
 | Fibonacci.java | Print fibonacci series using a recursive method | [:arrow_forward:](https://github.com/kode-logger/dimension-Java/tree/main/JavaRecursion/Fibonacci "Fibonacci") | [:arrow_down:](https://raw.githubusercontent.com/kode-logger/dimension-Java/main/JavaRecursion/Fibonacci/Fibonacci.java "Fibonacci.java") |
 | Factorial.java | Print factorial of a number using a recursive method | [:arrow_forward:](https://github.com/kode-logger/dimension-Java/tree/main/JavaRecursion/Factorial "Factorial") | [:arrow_down:](https://raw.githubusercontent.com/kode-logger/dimension-Java/main/JavaRecursion/Factorial/Factorial.java "Factorial.java") |
+| SumNaturalNum.java | Print the sum of first n-natural numbers using a recursive method | [:arrow_forward:](https://github.com/kode-logger/dimension-Java/tree/main/JavaRecursion/SumNaturalNum "Sum of first n natural numbers") | [:arrow_down:](https://raw.githubusercontent.com/kode-logger/dimension-Java/main/JavaRecursion/SumNaturalNum/SumNaturalNum.java "SumNaturalNum.java") |
 
 **More Programs will be added soon**
 
@@ -41,7 +42,7 @@
 - You will enjoy the process of contributing and sharing your work with other developers. Even if your contribution is
   small, no worries.
 - There is a 35% chance that some random person might check out your profile after seeing this repository... 😅
-- Nonetheless you can share your knowledge and help others by contributing to this repository.
+- Nonetheless, you can share your knowledge and help others by contributing to this repository.
 
 ### What do I get if you contribute to this repository?
 
@@ -52,4 +53,4 @@
 Last but not least, I am happy to welcome any contributions in the form of bug fixes (if any), some java codes,
 documentation work or anything else.
 
-And... make sure to **STAR** this repository, who knows it might help you someday 😉.
+Make sure to **STAR** this repository, it will help you someday 😉.
