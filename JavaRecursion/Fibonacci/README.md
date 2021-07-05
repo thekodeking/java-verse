@@ -50,29 +50,22 @@ public class Fibonacci {
     public static void main(String[] args) {
         // if user provided commandline-arguments, then
         if (args.length != 0) {
-            if (args.length == 1) {
+            if (args.length == 1)
                 totalTerms = Integer.parseInt(args[0]);
-                System.out.printf("[->] Fibonacci Series upto %s terms:", totalTerms);
-                for (int i = 0; i < totalTerms; i++) {
-                    if (i % 10 == 0)
-                        System.out.println();
-                    System.out.format("%10d", generateFibonacciRecursive(i));
-                }
-            } else {
+            else
                 System.out.println("[!] Available arguments: [Number of Terms]");
-            }
+
         } // else get input from user
         else {
             Scanner scanner = new Scanner(System.in);
             System.out.print("[<-] Enter the number of terms: ");
-            int totalTerms = scanner.nextInt();
-
-            System.out.printf("[->] Fibonacci Series upto %s terms:%n", totalTerms);
-            for (int i = 0; i < totalTerms; i++) {
-                if (i % 10 == 0)
-                    System.out.println();
-                System.out.format("%10d", generateFibonacciRecursive(i));
-            }
+            totalTerms = scanner.nextInt();
+        }
+        System.out.printf("[->] Fibonacci Series upto %s terms:", totalTerms);
+        for (int i = 0; i < totalTerms; i++) {
+            if (i % 10 == 0)
+                System.out.println();
+            System.out.format("%10d", generateFibonacciRecursive(i));
         }
     }
 
@@ -93,7 +86,7 @@ public class Fibonacci {
 >
 > **`public static void main(String[] args)` : main method/function is the first method that will be executed in any java programs.**
 >
-> **`String[] args` : args is a array of String type. It is used to get commandline arguments for your program.**
+> **`String[] args` : args is an array of String type. It is used to get commandline arguments for your program.**
 >
 > **`args.length > 0` : checks whether args is empty or not**
 >
