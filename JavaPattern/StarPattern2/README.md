@@ -38,19 +38,21 @@ import java.util.Scanner;
 
 public class StarPattern2 {
     static char symbol;
+    static int rows = 0;
+
     public static void main(String[] args) {
         if (args.length > 0) {
             if (args.length == 1)
-                starPrinter(Integer.parseInt(args[0]));
+                rows = Integer.parseInt(args[0]);
             else
                 System.out.println("[!] Available arguments: [rows (integer)] ");
         } else {
             Scanner scan = new Scanner(System.in);
             System.out.print("[<-] Enter the number of rows: ");
-            int rows = scan.nextInt();
-            scan.close();                
-            starPrinter(rows);
+            rows = scan.nextInt();
+            scan.close();
         }
+        starPrinter(rows);
     } // end of main method
 
     public static void starPrinter(int rows) {
