@@ -33,6 +33,12 @@
 | Factorial.java | Print factorial of a number using a recursive method | [:arrow_forward:](https://github.com/kode-logger/dimension-Java/tree/main/JavaRecursion/Factorial "Factorial") | [:arrow_down:](https://raw.githubusercontent.com/kode-logger/dimension-Java/main/JavaRecursion/Factorial/Factorial.java "Factorial.java") |
 | SumNaturalNum.java | Print the sum of first n-natural numbers using a recursive method | [:arrow_forward:](https://github.com/kode-logger/dimension-Java/tree/main/JavaRecursion/SumNaturalNum "Sum of first n natural numbers") | [:arrow_down:](https://raw.githubusercontent.com/kode-logger/dimension-Java/main/JavaRecursion/SumNaturalNum/SumNaturalNum.java "SumNaturalNum.java") |
 
+## Java Implementation of Design Analysis and Algorithm course
+
+| Filename | Description | Visit | Download |
+| :----:   | :----:      | :----: | :----: |
+| Euclidean GCD | Calculate gcd using Euclidean algorithm | [:arrow_forward:](https://github.com/kode-logger/dimension-Java/tree/main/Course_DAA/GreatestCommonDivisor "Euclidean GCD") | [:arrow_down:](https://raw.githubusercontent.com/kode-logger/dimension-Java/main/Course_DAA/GreatestCommonDivisor/EuclidGCD.java "EuclidGCD.java") | 
+
 **More Programs will be added soon**
 
 ## Hey, Want to Contribute?
