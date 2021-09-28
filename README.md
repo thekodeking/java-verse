@@ -47,7 +47,7 @@
 
 - You will enjoy the process of contributing and sharing your work with other developers. Even if your contribution is
   small, no worries.
-- There is a 35% chance that some random person might check out your profile after seeing this repository... 😅
+- There is some hope that a random person might check out your profile after seeing this repository... 😅
 - Nonetheless, you can share your knowledge and help others by contributing to this repository.
 
 ### What do I get if you contribute to this repository?
