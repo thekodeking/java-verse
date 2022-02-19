@@ -22,8 +22,8 @@
 
 | Filename | Description | Visit | Download |
 | :----:   | :----:      | :----: | :----: |
-| StarPattern1.java | Print Right Angle Triangle (Basic pattern program) | [:arrow_forward:](https://github.com/kode-logger/dimension-Java/tree/main/JavaPattern/StarPattern1 "StarPattern1") | [:arrow_down:](https://raw.githubusercontent.com/kode-logger/dimension-Java/main/JavaPattern/StarPattern1/StarPattern1.java "StarPattern1.java") |
-| StarPattern2.java | Print Right Angle Triangle with even and odd row variation | [:arrow_forward:](https://github.com/kode-logger/dimension-Java/tree/main/JavaPattern/StarPattern2 "StarPattern2") | [:arrow_down:](https://raw.githubusercontent.com/kode-logger/dimension-Java/main/JavaPattern/StarPattern2/StarPattern2.java "StarPattern2.java") |
+| RightTriangle1.java | Print Right Angle Triangle (Basic pattern program) | [:arrow_forward:](https://github.com/kode-logger/dimension-Java/tree/main/JavaPattern/RightTriangle1 "RightTriangle1") | [:arrow_down:](https://raw.githubusercontent.com/kode-logger/dimension-Java/main/JavaPattern/RightTriangle1/RightTriangle1.java "RightTriangle1.java") |
+| RightTriangle2.java | Print Right Angle Triangle with even and odd row variation | [:arrow_forward:](https://github.com/kode-logger/dimension-Java/tree/main/JavaPattern/RightTriangle2 "RightTriangle2") | [:arrow_down:](https://raw.githubusercontent.com/kode-logger/dimension-Java/main/JavaPattern/RightTriangle2/RightTriangle2.java "RightTriangle2.java") |
 
 ## Java Recursion Programs
 
