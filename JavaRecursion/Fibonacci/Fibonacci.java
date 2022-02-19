@@ -18,6 +18,7 @@ public class Fibonacci {
             Scanner scanner = new Scanner(System.in);
             System.out.print("[<-] Enter the number of terms: ");
             totalTerms = scanner.nextInt();
+            scanner.close();
         }
         System.out.printf("[->] Fibonacci Series upto %s terms:", totalTerms);
         for (int i = 0; i < totalTerms; i++) {

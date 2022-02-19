@@ -19,6 +19,7 @@ public class SumNaturalNum {
             Scanner scanner = new Scanner(System.in);
             System.out.print("[<-] Enter the number of terms: ");
             n = scanner.nextInt();
+            scanner.close();
         }
 
         sumValue = findSumNaturalNumbers(n); // getting the result from the recursive method

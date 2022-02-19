@@ -18,6 +18,7 @@ public class Factorial {
             Scanner scanner = new Scanner(System.in);
             System.out.print("[<-] Enter a number to find the factorial: ");
             number = scanner.nextLong();
+            scanner.close();
         }
 
         factorialValue = generateFactorial(number);
@@ -37,4 +38,3 @@ public class Factorial {
             return number * generateFactorial(number - 1);
     }
 }
-
