@@ -1,8 +1,8 @@
-package StarPattern2;
+package RightTriangle2;
 
 import java.util.Scanner;
 
-public class StarPattern2 {
+public class RightTriangle2 {
     static char symbol;
     static int rows = 0;
 

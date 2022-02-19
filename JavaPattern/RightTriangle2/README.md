@@ -1,4 +1,4 @@
-# Star Pattern - 2
+# Right Triangle Pattern - 2
 
 A basic program that gets input `rows` (Integer) from the user and prints the following pattern.
 
@@ -20,23 +20,23 @@ Output:
 **To run the program, open your commandline and type the following:**
 * Without Commandline Arguments
 ```shell
- $ ..\JavaBasic> javac .\StarPattern2\StarPattern2.java
- $ ..\JavaBasic> java StarPattern2.StarPattern2
+ $ ..\JavaBasic> javac .\RightTriangle2\RightTriangle2.java
+ $ ..\JavaBasic> java RightTriangle2.RightTriangle2
 ```
 
 * With Commandline Arguments
 ```shell
- $ ..\JavaBasic> javac .\StarPattern2\StarPattern2.java
- $ ..\JavaBasic> java StarPattern2.StarPattern2 5
+ $ ..\JavaBasic> javac .\RightTriangle2\RightTriangle2.java
+ $ ..\JavaBasic> java RightTriangle2.RightTriangle2 5
  ```
 
-### StarPattern2.java
+### RightTriangle2.java
 ```java
-package StarPattern2;
+package RightTriangle2;
 
 import java.util.Scanner;
 
-public class StarPattern2 {
+public class RightTriangle2 {
     static char symbol;
     static int rows = 0;
 

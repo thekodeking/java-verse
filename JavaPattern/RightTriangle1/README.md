@@ -1,4 +1,4 @@
-# Star Pattern - 1
+# Right Triangle Pattern - 1
 
 A basic program that gets input `rows` (Integer) and `symbol` (Character) from the user and prints the following pattern.
 
@@ -29,26 +29,26 @@ Output:
 **To run the program, open your commandline and type the following:**
 * Without Commandline Arguments
 ```shell
- $ ..\JavaPattern> javac .\StarPattern\StarPattern1.java
- $ ..\JavaPattern> java StarPattern1.StarPattern1
+ $ ..\JavaPattern> javac .\RightTraingle1\RightTriangle1.java
+ $ ..\JavaPattern> java RightTriangle1.RightTriangle1
 ```
 
 * With Commandline Arguments
 ```shell
- $ ..\JavaPattern> javac .\StarPattern1\StarPattern1.java
- $ ..\JavaPattern> java StarPattern1.StarPattern1 5
+ $ ..\JavaPattern> javac .\RightTriangle1\RightTriangle1.java
+ $ ..\JavaPattern> java RightTriangle1.RightTriangle1 5
             or
- $ ..\JavaPattern> java StarPattern1.StarPattern1 5 x
+ $ ..\JavaPattern> java RightTriangle1.RightTriangle1 5 x
 ```
 
-### StarPattern1.java
+### RightTriangle1.java
 ```java
-package StarPattern1;
+package RightTriangle1;
 
 import java.io.IOException;
 import java.util.Scanner;
 
-public class StarPattern1 {
+public class RightTriangle1 {
     static char symbol = '*'; // to store the character to print.
 
     public static void main(String[] args) {

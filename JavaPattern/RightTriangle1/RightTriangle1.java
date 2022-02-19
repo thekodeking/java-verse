@@ -1,9 +1,9 @@
-package StarPattern1;
+package RightTriangle1;
 
 import java.io.IOException;
 import java.util.Scanner;
 
-public class StarPattern1 {
+public class RightTriangle1 {
     static char symbol = '*'; // to store the character to print.
 
     public static void main(String[] args) {
