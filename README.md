@@ -1,4 +1,4 @@
-# dimension-Java
+# java-verse
 ---
 ![Java Banner](https://raw.githubusercontent.com/kode-logger/resource-data-storage/main/dimension-java/JavaBanner.jpg)
 
