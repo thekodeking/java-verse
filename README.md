@@ -4,6 +4,14 @@
 
 *A repository that contains all my Java programs in the given directories. You are free to learn or use the programs.*
 
+**To contribute to this repository:**
+
+1. Fork the repository.
+2. Create a branch with the name: (username)-(program). [Eg: octocat-binarysearch].
+3. Add your commits (if possible follow the [conventional commit guidelines](https://www.conventionalcommits.org/en/v1.0.0/)).
+4. Send in a Pull Request.
+5. (Optional) Request for review.
+
 ## JavaBasic Programs
 
 | Filename             | Description | Visit | Download |
@@ -40,21 +48,6 @@
 | Euclidean GCD | Calculate gcd using Euclidean algorithm | [:arrow_forward:](https://github.com/kode-logger/dimension-Java/tree/main/Course_DAA/GreatestCommonDivisor "Euclidean GCD") | [:arrow_down:](https://raw.githubusercontent.com/kode-logger/dimension-Java/main/Course_DAA/GreatestCommonDivisor/EuclidGCD.java "EuclidGCD.java") | 
 
 **More Programs will be added soon**
-
-## Hey, Want to Contribute?
-
-### Why should you contribute to this repository?
-
-- You will enjoy the process of contributing and sharing your work with other developers. Even if your contribution is
-  small, no worries.
-- There is some hope that a random person might check out your profile after seeing this repository... 😅
-- Nonetheless, you can share your knowledge and help others by contributing to this repository.
-
-### What do I get if you contribute to this repository?
-
-- More techniques and knowledge.
-- Some unique algorithms that I might be seeing for the first time.
-- Maybe some chance to collaborate with new developers?
 
 Last but not least, I am happy to welcome any contributions in the form of bug fixes (if any), some java codes,
 documentation work or anything else.
