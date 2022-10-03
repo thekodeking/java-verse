@@ -14,8 +14,13 @@ In heapify the binary tree is converted to max heap so that we can remove the to
 and repeat the process again and again until there is no element left in the tree.
 
 EX: arr = {5,4,3,2,1}
- 
-initial tree:
+
+Add the top element to the end of the tree index in the array and do not consider for building tree anymore.
+Ex:
+       If the tree size is 5 then add the element to the fifth posistion of the array and reduce tree size to 4 and construct max heap.
+Repeat the same process again and again until there is no elements left.
+
+#### initial tree:
  
  ```
                 1
@@ -24,3 +29,43 @@ initial tree:
          /   \    
        5       3 
  ```
+ 
+ #### max heap (Iteration - 1):
+ ```
+                5
+             /     \
+           4        3
+         /   \    
+       2       1 
+```
+**Remove 5 from the tree and build max heap again**
+
+#### max heap (Iteartion -2):
+```
+                4
+             /     \
+           3        2
+         /      
+       1       
+```
+**Remove 4 from the tree and build max heap again**
+
+#### max heap (Iteraion - 3):
+```
+                3
+             /     \
+           2        1
+```
+**Remove 3 from the tree and build max heap again**
+
+#### max heap(Iteration - 4):
+```
+                2
+             /     
+           1       
+```
+
+**Remove 2 from the tree and build max heap again**
+**After removing 1 we do not have any more lements left so we have completed sorting the whole array**
+
+The final arr will be {1 , 2 , 3 , 4 , 5 }
