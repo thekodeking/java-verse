@@ -1,6 +1,6 @@
 # HeapSort
  
-### Heap sort algorithm
+## Heap sort algorithm
  
 Heap sort is a comparison-based sorting technique based on Binary Heap data structure.
 It is similar to the selection sort where we first find the minimum element and place the minimum element at the beginning.
@@ -20,7 +20,7 @@ Ex:
        If the tree size is 5 then add the element to the fifth posistion of the array and reduce tree size to 4 and construct max heap.
 Repeat the same process again and again until there is no elements left.
 
-#### initial tree:
+### initial tree:
  
  ```
                 1
@@ -30,7 +30,7 @@ Repeat the same process again and again until there is no elements left.
        5       3 
  ```
  
- #### max heap (Iteration - 1):
+ ### max heap (Iteration - 1):
  ```
                 5
              /     \
@@ -40,7 +40,7 @@ Repeat the same process again and again until there is no elements left.
 ```
 **Remove 5 from the tree and build max heap again**
 
-#### max heap (Iteartion -2):
+### max heap (Iteartion -2):
 ```
                 4
              /     \
@@ -50,7 +50,7 @@ Repeat the same process again and again until there is no elements left.
 ```
 **Remove 4 from the tree and build max heap again**
 
-#### max heap (Iteraion - 3):
+### max heap (Iteraion - 3):
 ```
                 3
              /     \
@@ -58,7 +58,7 @@ Repeat the same process again and again until there is no elements left.
 ```
 **Remove 3 from the tree and build max heap again**
 
-#### max heap(Iteration - 4):
+### max heap(Iteration - 4):
 ```
                 2
              /     
