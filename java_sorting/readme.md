@@ -6,7 +6,7 @@
       It is similar to the selection sort where we first find the minimum element and place the minimum element at the beginning.
       Repeat the same process for the remaining elements.
 
-Heap sort uses only one main functionality and it is called <b>heapify<b>.
+Heap sort uses only one main functionality and it is called **heapify**.
 
 A max-heap is a complete binary tree in which the value in each internal node is greater than or equal to the values in the children of that node.
  
