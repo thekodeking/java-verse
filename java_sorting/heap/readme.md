@@ -82,3 +82,6 @@ open cmd promt
 > **javac HeapSort.java**
 
 > **java HeapSort 5 4 3 2 1(elements you need to sort)**
+
+## Example 
+![image](https://user-images.githubusercontent.com/82559951/193531889-9b70fb20-b181-4a8b-9790-0d8ec2d27856.png)
