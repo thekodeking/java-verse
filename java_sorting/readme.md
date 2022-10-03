@@ -66,6 +66,7 @@ Repeat the same process again and again until there is no elements left.
 ```
 
 **Remove 2 from the tree and build max heap again**
+
 **After removing 1 we do not have any more lements left so we have completed sorting the whole array**
 
 The final arr will be {1 , 2 , 3 , 4 , 5 }
