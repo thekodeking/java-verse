@@ -78,8 +78,7 @@ download the code given in the github
 
 open cmd promt
 
-type : **javac HeapSort.java**
+### command to run:
+> **javac HeapSort.java**
 
-then
-
-type : **java HeapSort 5 4 3 2 1(elements you need to sort)**
+> **java HeapSort 5 4 3 2 1(elements you need to sort)**
