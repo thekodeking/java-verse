@@ -72,10 +72,14 @@ Repeat the same process again and again until there is no elements left.
 The final arr will be {1 , 2 , 3 , 4 , 5 }
 
 
-##How to use the code
+## How to use the code
 
 download the code given in the github
 
 open cmd promt
 
 type : **javac HeapSort.java**
+
+then
+
+type : **java HeapSort 5 4 3 2 1(elements you need to sort)**
